@@ -1,32 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on 湯先生的島</title>
+    <title>Blogs on 湯先生の島</title>
     <link>https://thomas85198.github.io/blog/</link>
-    <description>Recent content in Blogs on 湯先生的島</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Blogs on 湯先生の島</description>
+    <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 03 Sep 2023 11:20:00 +0800</lastBuildDate><atom:link href="https://thomas85198.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jul 2024 10:08:48 +0600</lastBuildDate>
+    <atom:link href="https://thomas85198.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>湯先生的第一篇文章</title>
-      <link>https://thomas85198.github.io/blog/test/</link>
-      <pubDate>Sun, 03 Sep 2023 11:20:00 +0800</pubDate>
-      
-      <guid>https://thomas85198.github.io/blog/test/</guid>
-      <description>Hello World
-我是湯瑪士
-一級標題 二級標題 六級標題 我是湯先生，我喜歡學習
-湯先生 Hello Hello What Are you Hello</description>
+      <title>【每天一分鐘】卡片盒筆記法，由德國科學家所提出的一套筆記法</title>
+      <link>https://thomas85198.github.io/blog/post-1/</link>
+      <pubDate>Sun, 21 Jul 2024 10:08:48 +0600</pubDate>
+      <guid>https://thomas85198.github.io/blog/post-1/</guid>
+      <description>這篇主要是根據閱讀了瓦基的卡片盒筆記實戰課｜靈感捕捉到高效產出的知識管理系統得到的一些心得。&#xA;卡片盒筆記法一直是我非常欣賞的筆記方法之一。甚麼是卡片盒筆記法？這個筆記方法其實是源自於德國的社會科學家 Niklas Luhmann。在他一生當中總共出版了 70 本書和 400 多篇論文。&#xA;筆記法的大方向總共分為四個類型：靈感筆記、文獻筆記與永久筆記，還有有點像目錄結構統整永久筆記的索引筆記類型。 更進一步說明：</description>
     </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://thomas85198.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://thomas85198.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
   </channel>
 </rss>

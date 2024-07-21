@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>湯先生の島</title>
-    <link>https://thomas85198.github.io/</link>
-    <description>Recent content on 湯先生の島</description>
+    <title>Zettelkasten on 湯先生の島</title>
+    <link>https://thomas85198.github.io/tags/zettelkasten/</link>
+    <description>Recent content in Zettelkasten on 湯先生の島</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 21 Jul 2024 10:08:48 +0600</lastBuildDate>
-    <atom:link href="https://thomas85198.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thomas85198.github.io/tags/zettelkasten/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【每天一分鐘】卡片盒筆記法，由德國科學家所提出的一套筆記法</title>
       <link>https://thomas85198.github.io/blog/post-1/</link>
