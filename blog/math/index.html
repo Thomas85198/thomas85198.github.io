@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+  
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+<script>
+    MathJax = {
+        tex: {
+            displayMath: [['\\[', '\\]'], ['$$', '$$']],  
+            inlineMath: [['\\(', '\\)']]                  
+        }
+    };
+</script>
+  
+  <meta charset="utf-8">
+  <title>湯先生の島</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="湯先生 - 不太專業的程式設計師">
+  <meta name="author" content="湯先生">
+    
+  
+  <meta name="theme-name" content="liva-hugo" />
+  
+  <meta name="generator" content="Hugo 0.129.0">
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://thomas85198.github.io/plugins/bootstrap/bootstrap.min.css ">
+  
+  <link rel="stylesheet" href="https://thomas85198.github.io/plugins/slick/slick.css ">
+  
+  <link rel="stylesheet" href="https://thomas85198.github.io/plugins/themify-icons/themify-icons.css ">
+  
+  <link rel="stylesheet" href="https://thomas85198.github.io/plugins/venobox/venobox.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://thomas85198.github.io/scss/style.min.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://thomas85198.github.io/images/favicon.png " type="image/x-icon">
+  <link rel="icon" href="https://thomas85198.github.io/images/favicon.png " type="image/x-icon">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RM89J9QZXS"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-RM89J9QZXS');
+  </script>
+
+</head>
+<body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+<!-- navigation -->
+<header class="navigation">
+    <div class="container">
+        
+        <nav class="navbar navbar-expand-lg navbar-white bg-transparent border-bottom pl-0">
+            <a class="navbar-brand mobile-view" href="https://thomas85198.github.io/"><img class="img-fluid"
+                                                                                src="https://thomas85198.github.io/images/island.png"
+                                                                                alt="湯先生の島"></a>
+            <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+                <i class="ti-menu"></i>
+            </button>
+
+            <div class="collapse navbar-collapse text-center" id="navigation">
+                <div class="desktop-view">
+                    <a class="navbar-brand mx-auto desktop-view" href="https://thomas85198.github.io/">湯先生の島</a>
+                </div>
+
+                <div class="navbar-brand mx-auto desktop-view"><img class="img-fluid" src="https://thomas85198.github.io/images/island.png" alt="湯先生の島"></div>
+
+                <ul class="navbar-nav">
+                    
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://thomas85198.github.io/about/">About</a>
+                    </li>
+                    
+                    
+                </ul>
+
+                
+                <!-- search --> 
+                <div class="search pl-lg-4">
+                    <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
+                    <div class="search-wrapper">
+                        <form action="https://thomas85198.github.io//search" class="h-100">
+                            <input class="search-box px-4" id="search-query" name="s" type="search"
+                                   placeholder="Type & Hit Enter...">
+                        </form>
+                        <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>
+                    </div>
+                </div>
+                
+
+                
+            </div>
+        </nav>
+    </div>
+</header>
+<!-- /navigation -->
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        
+        <h2>Math examples</h2>
+        <div class="mb-3 post-meta">
+          <span
+            >By 湯先生</span
+          >
+          
+          <span class="border-bottom border-primary px-2 mx-1"></span>
+          <span>24 January 2024</span>
+          
+        </div>
+        
+        <div class="content mb-5"><p>This is an inline \(a^*=x-b^*\) equation.</p>
+<p>These are block equations:</p>
+\[a^*=x-b^*\]
+\[ a^*=x-b^* \]
+\[
+a^*=x-b^*
+\]
+<p>These are block equations using alternate delimiters:</p>
+$$a^*=x-b^*$$
+$$ a^*=x-b^* $$
+$$
+a^*=x-b^*
+$$
+</div>
+
+        
+        <div id="disqus_thread"></div>
+<script>
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "thomas85198" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<script>
+  var indexURL = "https://thomas85198.github.io/index.json"
+</script>
+
+<!-- JS Plugins --> 
+<script src="https://thomas85198.github.io/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://thomas85198.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://thomas85198.github.io/plugins/slick/slick.min.js"></script>
+
+<script src="https://thomas85198.github.io/plugins/venobox/venobox.min.js"></script>
+
+<script src="https://thomas85198.github.io/plugins/search/fuse.min.js"></script>
+
+<script src="https://thomas85198.github.io/plugins/search/mark.js"></script>
+
+<script src="https://thomas85198.github.io/plugins/search/search.js"></script>
+ <!-- Main Script --> 
+<script src="https://thomas85198.github.io/js/script.min.js"></script>
+
+
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Algorithm on 湯先生の島</title>
+    <link>https://thomas85198.github.io/tags/algorithm/</link>
+    <description>Recent content in Algorithm on 湯先生の島</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 05 Nov 2024 10:08:48 +0600</lastBuildDate>
+    <atom:link href="https://thomas85198.github.io/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【Algorithm】Linear Search 線性查找</title>
+      <link>https://thomas85198.github.io/blog/linearsearch/</link>
+      <pubDate>Tue, 05 Nov 2024 10:08:48 +0600</pubDate>
+      <guid>https://thomas85198.github.io/blog/linearsearch/</guid>
+      <description>本篇主要是資料結構與演算法 (JavaScript)的課程筆記。&#xA;大家好，我是湯瑪士。身為資管系畢業生，雖然在大學時期與程式無緣，但畢業後透過自學逐漸愛上程式設計。&#xA;今天想要和大家分享最基礎的搜尋演算法之一：Linear Search（線性查找）。它的核心重點就是：按順序檢查陣列中的每個元素，直到找到目標值或搜尋完整個陣列。 雖然這是最簡單的搜尋演算法，但是在實務上卻經常被使用。&#xA;JavaScript 範例： 以下是一個簡單的 Linear Search 實作：</description>
+    </item>
+  </channel>
+</rss>
